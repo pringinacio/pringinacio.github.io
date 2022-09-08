@@ -1,6 +1,8 @@
+---
 layout: page
 title: "How to Use the Keyboard to Move or Resize a Window that is Too Big for the Screen"
-permalink: /windows/
+permalink: /move_resize_window_windows.html
+---
 
 # How to Use the Keyboard to Move or Resize a Window that is Too Big for the Screen
 
