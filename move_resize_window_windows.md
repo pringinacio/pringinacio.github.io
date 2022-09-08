@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "How to Use the Keyboard to Move or Resize a Window that is Too Big for the Screen"
+permalink: /windows/
 
 # How to Use the Keyboard to Move or Resize a Window that is Too Big for the Screen
 
